@@ -9,3 +9,13 @@ Nest: 10.3.2
 ```
 docker-compose up -d
 ```
+
+### ANTES DE LEVANTAR EL PROYECTO
+
+- Renombrar el archivo .env.template a .env
+
+- Ejecutar:
+```
+npm run start:dev
+```
+
